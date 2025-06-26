@@ -1,5 +1,4 @@
-# 👋 Hi there, I'm **Pooja K H**  ![visitors](https://komarev.com/ghpvc/?username=pooja-kh-26&label=Profile+Views&color=0e75b6&style=flat-square)
-
+# 👋 Hi there, I'm **Pooja K H**  
   
   <a href="https://www.linkedin.com/in/pooja-kh/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -25,12 +24,15 @@
   <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logoColor=white" />
 </a>
 
+![visitors](https://komarev.com/ghpvc/?username=pooja-kh-26&label=Profile+Views&color=0e75b6&style=flat-square)
+
 
 ## 💡 About Me
 
 I'm a 6th semester **Information Science and Engineering** student  
 with a strong passion for building impactful tech, solving real-world problems,  
 and turning ideas into meaningful projects that matter.
+
 
 
 ## 🚧 What I'm Currently Doing
@@ -40,6 +42,7 @@ and turning ideas into meaningful projects that matter.
 - 💬 Open to collaboration and new learning opportunities
 - 📫 Reach me at: poojakh2026@gmail.com
 - 🌐 Visit my portfolio: [pooja-k-h-portfolio.netlify.app](https://pooja-k-h-portfolio.netlify.app)
+
 
 
 <h2>✨ I love working with</h2>
@@ -63,6 +66,8 @@ and turning ideas into meaningful projects that matter.
   </span>
 </p>
 
+
+
 <h2>💻 Programming Languages I Code In</h2>
 
  Java  
@@ -73,6 +78,8 @@ and turning ideas into meaningful projects that matter.
   
   C  
   ▓▓░░░░░░░░░ 5%  
+
+
    
 ## 📌 Pinned Projects
 
