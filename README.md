@@ -20,19 +20,10 @@
     <img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-14A800?style=flat-square&logo=geeksforgeeks&logoColor=white" />
   </a>
 
-  <a href="https://pooja-k-h-portfolio.netlify.app" target="_blank" style="text-decoration: none;">
-  <span style="
-    background-color: #000000;
-    color: white;
-    padding: 6px 12px;
-    font-size: 14px;
-    font-family: sans-serif;
-    border-radius: 4px;
-    display: inline-block;
-  ">
-    Portfolio
-  </span>
+  <a href="https://pooja-k-h-portfolio.netlify.app" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logoColor=white" />
 </a>
+
 
 ## 👩‍🎓 About Me
 
