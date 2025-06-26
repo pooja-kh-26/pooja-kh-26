@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Pooja K H!
 
-[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://pooja-k-h-portfolio.netlify.app)
-[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-kh/)
-[![👩‍💻 GitHub](https://img.shields.io/badge/GitHub-@pooja--kh--26-181717?style=for-the-badge&logo=github)](https://github.com/pooja-kh-26)
-[![📧 Email](https://img.shields.io/badge/Email-poojakh2026@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojakh2026@gmail.com)
-[![📄 Resume](https://img.shields.io/badge/Resume-View-informational?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1qX9COm_sO4uqO0LcoBJ_fy0BX8bBMhfU/view)
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-kh/)
+[![📧 Email](https://img.shields.io/badge/Gmail-poojakh2026@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojakh2026@gmail.com)
+[![👩‍💻 GitHub](https://img.shields.io/badge/GitHub-pooja--kh--26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pooja-kh-26)
+
 
 
 ## 👩‍🎓 About Me
