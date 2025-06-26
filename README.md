@@ -74,28 +74,10 @@ and turning ideas into meaningful projects that matter.
   C  
   ▓▓░░░░░░░░░ 5%  
    
-
 ## 📌 Pinned Projects
 
-### 🧠 [HealthEd AI](https://health-made-simple-powered-by-ai.netlify.app)
-> AI medical assistant that simplifies health terms using ClinicalBERT + MedQuAD  
-> Tech: `React`, `Flask`, `Tailwind`, `REST API`  
-[🔗 Code](https://github.com/pooja-kh-26/HeathEd_AI_frontend)
+You can find a few of my highlighted projects pinned on my GitHub profile  
+that reflect what I enjoy building.
 
----
-
-### 📘 [Bedrock Reader](https://bedrockreader.streamlit.app)
-> RAG-based Q&A system for PDFs using AWS Bedrock, FAISS & LangChain  
-> Tech: `Streamlit`, `LangChain`, `FAISS`, `AWS`  
-[🔗 Code](https://github.com/pooja-kh-26/BedrockReader)
-
----
-
-### 💬 [ChatCore](https://chatcore.netlify.app)
-> Chatbot with real-time responses, emoji support & file upload  
-> Tech: `HTML`, `CSS`, `JavaScript`, `REST API`  
-[🔗 Code](https://github.com/pooja-kh-26/ChatBot)
-
----
 
 > 🎯 Always learning. Always building. Let’s connect!
