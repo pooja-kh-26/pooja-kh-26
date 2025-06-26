@@ -1,8 +1,5 @@
 # 👋 Hi there, I'm **Pooja K H**
 
-<h2>📫 Connect with me</h2>
-
-<p>
   <a href="https://www.linkedin.com/in/pooja-kh/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -14,18 +11,6 @@
   <a href="https://github.com/pooja-kh-26" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-
-  <a href="https://pooja-k-h-portfolio.netlify.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-
-  <a href="https://drive.google.com/file/d/1qX9COm_sO4uqO0LcoBJ_fy0BX8bBMhfU/view" target="_blank">
-    <img alt="Resume" src="https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
-  </a>
-</p>
-
-
-
 
 
 ## 👩‍🎓 About Me
