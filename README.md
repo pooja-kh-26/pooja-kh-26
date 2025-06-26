@@ -17,8 +17,8 @@
   </a>
 
   <a href="https://pooja-k-h-portfolio.netlify.app" target="_blank">
-  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logoColor=white" />
-</a>
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logoColor=white" />
+  </a>
 
 ![visitors](https://komarev.com/ghpvc/?username=pooja-kh-26&label=Profile+Views&color=0e75b6&style=flat-square)
 
