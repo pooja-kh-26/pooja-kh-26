@@ -41,7 +41,6 @@ and turning ideas into meaningful projects that matter.
 - 💬 Open to collaboration and new learning opportunities
 - 📫 Reach me at: poojakh2026@gmail.com
 - 🌐 Visit my portfolio: [pooja-k-h-portfolio.netlify.app](https://pooja-k-h-portfolio.netlify.app)
-- 📄 [Check out my resume](https://drive.google.com/file/d/1qX9COm_sO4uqO0LcoBJ_fy0BX8bBMhfU/view)
 
 
 <h2>✨ I love working with</h2>
