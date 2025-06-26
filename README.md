@@ -11,10 +11,6 @@
   <a href="https://github.com/pooja-kh-26" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-
-  <a href="https://pooja-k-h-portfolio.netlify.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
   
   <a href="https://leetcode.com/u/POOJA_K_H/" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
@@ -23,6 +19,20 @@
   <a href="https://www.geeksforgeeks.org/user/poojakh26/" target="_blank">
     <img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-14A800?style=flat-square&logo=geeksforgeeks&logoColor=white" />
   </a>
+
+  <a href="https://pooja-k-h-portfolio.netlify.app" target="_blank" style="text-decoration: none;">
+  <span style="
+    background-color: #000000;
+    color: white;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-family: sans-serif;
+    border-radius: 4px;
+    display: inline-block;
+  ">
+    Portfolio
+  </span>
+</a>
 
 ## 👩‍🎓 About Me
 
