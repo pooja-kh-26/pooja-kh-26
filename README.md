@@ -27,15 +27,19 @@
 
 ## 💡 About Me
 
-I'm a 6th semester Information Science and Engineering student  
+I'm a 6th semester **Information Science and Engineering** student  
 with a strong passion for building impactful tech, solving real-world problems,  
 and turning ideas into meaningful projects that matter.
 
 
-## 🚧 Current Work
+## 🚧 What I'm Currently Doing
 
-I’m currently collaborating on a **team project based on Blockchain technology** 🛠️  
-My personal focus right now is strengthening my **Data Structures & Algorithms (DSA)** skills 💻
+- 👩‍💻 Working on a **team project based on Blockchain technology**
+- 🚀 Focusing on **Data Structures & Algorithms (DSA)** to sharpen my problem-solving
+- 💬 Open to collaboration and new learning opportunities
+- 📫 Reach me at: poojakh2026@gmail.com
+- 🌐 Visit my portfolio: [pooja-k-h-portfolio.netlify.app](https://pooja-k-h-portfolio.netlify.app)
+- 📄 [Check out my resume](https://drive.google.com/file/d/1qX9COm_sO4uqO0LcoBJ_fy0BX8bBMhfU/view)
 
 
 <h2>✨ I love working with</h2>
@@ -70,8 +74,6 @@ My personal focus right now is strengthening my **Data Structures & Algorithms (
   C  
   ▓▓░░░░░░░░░ 5%  
    
-
----
 
 ## 📌 Pinned Projects
 
