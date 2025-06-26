@@ -1,92 +1,169 @@
-# 👩‍💻 Pooja K H
+# 👋 Hi, I'm Pooja K H
 
-**Information Science & Engineering Student | Full-Stack Developer | AI Enthusiast**  
-📍 Bengaluru, Karnataka, India  
-📧 [poojakh2026@gmail.com](mailto:poojakh2026@gmail.com) | 📞 +91-9916353031  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-kh/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/pooja-kh-26)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-blueviolet)](https://pooja-k-h-portfolio.netlify.app)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Information+Science+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
 
----
+<p align="center">
+  📍 Bengaluru, Karnataka, India<br>
+  📧 <a href="mailto:poojakh2026@gmail.com">poojakh2026@gmail.com</a><br>
+  📱 +91-9916353031
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</p>
 
 ## 🎓 Education
 
-**RV Institute of Technology and Management**  
-*B.E. in Information Science and Engineering* (2022 – 2026)  
-📍 Bengaluru, Karnataka  
-📊 CGPA: 8.62
+**B.E. in Information Science and Engineering**  
+RV Institute of Technology and Management | 2022 – 2026  
+📊 **CGPA:** 8.62/10
 
 ---
 
-## 💻 Projects
+## 🚀 Featured Projects
 
-### 🧠 HealthEd AI
-[![Live Demo](https://img.shields.io/badge/Demo-Click_Here-green)](https://health-made-simple-powered-by-ai.netlify.app/)  
-[Frontend Repo](https://github.com/pooja-kh-26/HeathEd_AI_frontend)
+### 🏥 HealthEd AI
+*AI-powered medical assistant for enhanced health literacy*
 
-> An AI-powered medical assistant that simplifies complex health terms using ClinicalBERT and MedQuAD.  
-> Features dual-mode UI for patients and medical students.
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-**Tech Stack:** React.js, Node.js, TailwindCSS, Flask, ClinicalBERT, REST API  
-![HealthEd AI Screenshot](https://via.placeholder.com/600x300?text=HealthEd+AI+Screenshot)
+- 🧠 Built an AI-powered medical assistant using **ClinicalBERT** and **MedQuAD**
+- 👥 Designed dual-mode interface for patients (simplified) and medical students (detailed)
+- ⚡ Integrated Flask backend with real-time REST APIs
+- 📈 Improved health literacy through clear medical language explanations
+
+**[🔗 View Demo](your-demo-link)**
 
 ---
 
-### 📄 Bedrock Reader - RAG System
-[![Live Demo](https://img.shields.io/badge/Demo-Click_Here-green)](https://bedrockreader.streamlit.app/)  
-[Repo](https://github.com/pooja-kh-26/BedrockReader)
+### 📚 Bedrock Reader - RAG System
+*Advanced document Q&A system using AWS and LangChain*
 
-> RAG-based document QA system using AWS Bedrock, LangChain, and FAISS for semantic search across long PDFs.
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)](https://langchain.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
-**Tech Stack:** AWS Bedrock, LangChain, FAISS, Streamlit  
-![Bedrock Reader Screenshot](https://via.placeholder.com/600x300?text=Bedrock+Reader+Screenshot)
+- 🔍 Developed RAG pipeline for 100+ page PDF question-answering
+- 🧮 Used **LangChain + LLaMA** for PDF chunking and vector generation
+- ⚡ Implemented **FAISS** for fast semantic search
+- 🖥️ Deployed interactive Streamlit app with real-time capabilities
+
+**[🔗 View Demo](your-demo-link)**
 
 ---
 
 ### 💬 ChatCore
-[![Live Demo](https://img.shields.io/badge/Demo-Click_Here-green)](https://chatcore.netlify.app/)  
-[Repo](https://github.com/pooja-kh-26/ChatBot)
+*Responsive chatbot interface with enhanced UX*
 
-> Responsive chatbot UI with file upload, emoji support, and robust error handling.
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://javascript.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 
-**Tech Stack:** JavaScript, HTML/CSS, REST API  
-![ChatCore Screenshot](https://via.placeholder.com/600x300?text=ChatCore+Screenshot)
+- 🎨 Built responsive chatbot interface with dynamic conversations
+- 🔌 Connected to RESTful API for real-time responses
+- 📁 Enabled file uploads and emoji input for enhanced UX
+- 🛡️ Implemented robust error handling for API failures
+
+**[🔗 View Demo](your-demo-link)**
 
 ---
 
-## 🧑‍🏫 Experience
+## 💼 Experience
 
-### 🚗 Toyota Hackathon 2025 – Mentor  
-*Feb 2025*
+### 🏆 Toyota Hackathon 2025 - Mentor
+*February 2025*
 
-- Mentored two teams of school students in innovation and prototype development.
-- Guided idea implementation and storytelling for impactful presentations.
-- Supported teamwork, creativity, and technical skills during the event hosted by **Toyota Kirloskar Motor** and **RVITM**.
+- 👨‍🏫 Guided 2 teams of school students in problem-solving and innovation
+- 💡 Assisted in idea implementation and prototype development
+- 🎯 Provided mentorship on hackathon strategies and creative thinking
+- 🤝 Fostered collaborative learning environment at Toyota Kirloskar Motor event
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Java, C, Python  
-- **Web:** HTML, CSS, TailwindCSS, JavaScript, React JS, Node.js, Express JS  
-- **Databases:** MySQL, MongoDB  
-- **Tools & Platforms:** AWS, Postman, Tableau, Figma, VS Code, Eclipse  
-- **Version Control:** Git, GitHub
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Coding Profiles
+## 📊 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-visit-orange)](https://leetcode.com/u/POOJA_K_H/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-visit-brightgreen)](https://www.geeksforgeeks.org/user/poojakh26/)
+<p align="center">
+  <a href="https://leetcode.com/u/POOJA K H">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://geeksforgeeks.org/user/poojakh26">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📜 Certifications
+## 🏅 Certifications
 
-- **Advanced Java Workshop**  
-  [View Certificate](https://drive.google.com/file/d/1qX9COm_sO4uqO0LcoBJ_fy0BX8bBMhfU/view?usp=sharing)
+- 📜 **Advanced Java Workshop** - [View Certificate](your-certificate-link)
 
 ---
 
-> ✨ Built with passion for tech, learning, and impact!
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 🌟 Let's Connect!
+
+I'm always excited to collaborate on innovative projects and discuss new opportunities in technology!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
+
+---
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/yourusername">Pooja K H</a></i>
+</div>
