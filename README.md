@@ -4,10 +4,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:poojakh2026@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-
   <a href="https://github.com/pooja-kh-26" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
