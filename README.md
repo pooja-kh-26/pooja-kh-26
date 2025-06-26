@@ -25,12 +25,12 @@
 </a>
 
 
-## 👩‍🎓 About Me
+## 💡 About Me
 
-I'm a 6th semester **Information Science and Engineering** student at **RV Institute of Technology and Management**, Bengaluru.  
-I’m passionate about web development, real-world problem solving, and building things that matter!
+I'm a 6th semester Information Science and Engineering student  
+with a strong passion for building impactful tech, solving real-world problems,  
+and turning ideas into meaningful projects that matter.
 
----
 
 ## 🚧 Current Work
 
