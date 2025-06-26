@@ -59,28 +59,17 @@ My personal focus right now is strengthening my **Data Structures & Algorithms (
   </span>
 </p>
 
-<h2>🧠 Programming Languages</h2>
+<h2>💻 Programming Languages I Code In</h2>
 
-<p><strong>Java</strong></p>
-<div style="background-color: #ddd; border-radius: 6px; width: 300px;">
-  <div style="width: 90%; background-color: #f89820; color: white; padding: 6px; border-radius: 6px;">90%</div>
-</div>
-
-<p><strong>Python</strong></p>
-<div style="background-color: #ddd; border-radius: 6px; width: 300px;">
-  <div style="width: 60%; background-color: #3572A5; color: white; padding: 6px; border-radius: 6px;">60%</div>
-</div>
-
-<p><strong>C</strong></p>
-<div style="background-color: #ddd; border-radius: 6px; width: 300px;">
-  <div style="width: 50%; background-color: #A8B9CC; color: black; padding: 6px; border-radius: 6px;">50%</div>
-</div>
-
-<p><strong>JavaScript</strong></p>
-<div style="background-color: #ddd; border-radius: 6px; width: 300px;">
-  <div style="width: 55%; background-color: #f0db4f; color: black; padding: 6px; border-radius: 6px;">55%</div>
-</div>
-
+ Java  
+  ▓▓▓▓▓▓▓▓▓░░ 90%  
+  
+  Python  
+  ▓▓░░░░░░░░░ 5%  
+  
+  C  
+  ▓▓░░░░░░░░░ 5%  
+   
 
 ---
 
