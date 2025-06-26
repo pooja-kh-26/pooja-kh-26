@@ -1,10 +1,29 @@
 # 👋 Hi there, I'm **Pooja K H**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-kh/)
-[![GitHub](https://img.shields.io/badge/GitHub-pooja--kh--26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pooja-kh-26)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://pooja-k-h-portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Gmail-poojakh2026@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojakh2026@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-informational?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1qX9COm_sO4uqO0LcoBJ_fy0BX8bBMhfU/view)
+<h2>📫 Connect with me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/pooja-kh/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:poojakh2026@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/pooja-kh-26" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://pooja-k-h-portfolio.netlify.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1qX9COm_sO4uqO0LcoBJ_fy0BX8bBMhfU/view" target="_blank">
+    <img alt="Resume" src="https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
 
 
 
