@@ -1,6 +1,5 @@
-# 👋 Hi there, I'm **Pooja K H**
+# 👋 Hi there, I'm **Pooja K H**  ![visitors](https://komarev.com/ghpvc/?username=pooja-kh-26&label=Profile+Views&color=0e75b6&style=flat-square)
 
-  ![visitors](https://komarev.com/ghpvc/?username=pooja-kh-26&label=Profile+Views&color=0e75b6&style=flat-square)
   
   <a href="https://www.linkedin.com/in/pooja-kh/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
