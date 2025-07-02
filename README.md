@@ -36,7 +36,9 @@ and turning ideas into meaningful projects that matter.
 - 👩‍💻 Working on a **team project based on Blockchain technology**
 - 🚀 Focusing on **Data Structures & Algorithms (DSA)** to sharpen my problem-solving
 - 💬 Open to collaboration and new learning opportunities
-- 📫 Reach me at: poojakh2026@gmail.com
+- 📫 Reach me at: <a href="https://www.linkedin.com/in/pooja-kh/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 - 🌐 Visit my portfolio: [pooja-k-h-portfolio.netlify.app](https://pooja-k-h-portfolio.netlify.app)
 
 
