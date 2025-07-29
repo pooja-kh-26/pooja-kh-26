@@ -25,7 +25,7 @@
 
 ## 💡 About Me
 
-I'm a 6th semester **Information Science and Engineering** student  
+I'm a final year **Information Science and Engineering** student  
 with a strong passion for building impactful tech, solving real-world problems,  
 and turning ideas into meaningful projects that matter.
 
